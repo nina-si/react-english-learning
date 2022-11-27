@@ -6,9 +6,9 @@ A graduation project for [RS School](https://rs.school/). A web application for 
 
 You can learn and repeat words on the Textbook Page or play minigames for memorizing words. Authorized users can also track their progress.
 
-[Check it out!](https://rslang-v-yelina.netlify.app/)
+[Check it out!](https://react-eng.netlify.app/)
 
-![preview](./src/assets/image/main-page.png)
+![preview](./src/assets/image/textbook-img.jpg)
 
 ---
 
