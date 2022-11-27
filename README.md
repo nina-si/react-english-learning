@@ -5,6 +5,7 @@ A graduation project for [RS School](https://rs.school/). A web application for 
 ## What is it for?
 
 You can learn and repeat words on the Textbook Page or play minigames for memorizing words. Authorized users can also track their progress.
+
 [Check it out!](https://rslang-v-yelina.netlify.app/)
 
 ![preview](./src/assets/image/main-page.png)
@@ -27,7 +28,7 @@ You can learn and repeat words on the Textbook Page or play minigames for memori
 ## To run locally:
 
 1. Clone repository:  
-   `https://github.com/nina-si/react-english-learning.git`
+   `git clone https://github.com/nina-si/react-english-learning.git`
 2. Move to folder:  
    `cd react-english-learning`
 3. Install dependencies:  
