@@ -8,7 +8,7 @@ You can learn and repeat words on the Textbook Page or play minigames for memori
 
 [Check it out!](https://react-eng.netlify.app/)
 
-![preview](./src/assets/image/textbook-img.jpg)
+![preview](./src/assets/image/textbook-img.JPG)
 
 ---
 
